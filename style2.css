@@ -1,0 +1,132 @@
+@media screen and (max-width: 1200px) {
+    body{
+        background: red;
+    }
+
+    .container{
+        grid-template-columns: 5rem 15rem auto 17rem;
+    }
+
+    aside a h3{
+        display: none;
+    }
+
+    aside .logo h1{
+        display: none;
+    }
+
+    aside .menu{
+        display: block;
+    }
+}
+
+@media screen and (max-width: 970px){
+    body{
+        background: green;
+    }
+
+    .container{
+        grid-template-columns: 5rem auto 20rem;
+        gap: 0.5rem;
+    }
+
+    .connections{
+        display: none;
+    }
+
+    .main .make-post .input-area{
+        padding: 0;
+    }
+
+    .main .make-post .quik-liks{
+        padding: 0.3rem 0;
+    }
+    
+    .main .make-post .quik-liks span{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 800px){
+    body{
+        background: red;
+    }
+
+    .container{
+        grid-template-columns: 5rem auto;
+        gap: 0.2rem;
+    }
+
+    .right{
+        display: none;
+    }
+
+    /* .main .header{
+        position: fixed;
+        width: 100%;
+    } */
+
+    .main{
+        margin-right: 0.3rem;
+    }
+
+    .main .header a:last-child{
+        display: flex;
+    }
+
+    .main .make-post .input-area,
+    .main .make-post .quik-liks{
+        width: 60%;
+        align-items: center;
+    }
+
+    .main .make-post{
+        display: flex;
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .main .make-post .quik-liks h4{
+        display: none;
+    }
+
+    .main .make-post .input-area,
+    .main .make-post .quik-liks{
+        width: 100%;
+    }
+
+    .main .make-post{
+        flex-direction: column;
+    }
+
+    aside{
+        display: none;
+    }
+
+    .container{
+        grid-template-columns: 1fr;
+    }
+
+    .main{
+        margin: 0;
+    }
+
+    .main .post-box{
+        padding: 0.5rem;
+    }
+
+    .main .header a h3{
+        display: none;
+    }
+
+    .main .header a{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main .header{
+        width: 100%;
+        position: fixed;
+    }
+}

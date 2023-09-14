@@ -1,0 +1,88 @@
+<div class="friends">
+                <div class="tag">
+                    <h3>chats</h3>
+                    <span>28</span>
+                </div>
+                <div class="chats-container">
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                            <div class="online"></div>
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                        <span>1</span>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                            <div class="online"></div>
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                        <span>3</span>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                            <div class="online"></div>
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                        <span>8</span>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                    </div>
+                    <div class="chat">
+                        <div class="profile-pic">
+                            <img src="user-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <h3>Umar Farhan</h3>
+                            <small>Lorem ipsum dolor sit amet.</small>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="">View All</a>
+            </div>
